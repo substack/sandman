@@ -1,0 +1,21 @@
+{
+    "author" : "James Halliday <mail@substack.net> (http://substack.net)",
+    "name" : "sandman",
+    "description" : "Sandbox your installs. Load and unload packages.",
+    "version" : "0.0.1",
+    "bin" : {
+        "sandman" : "./cli.js"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/substack/sandman.git"
+    },
+    "directories" : {
+        "lib" : "."
+    },
+    "engines" : {
+        "node" : ">=0.4"
+    },
+    "dependencies" : {},
+    "devDependencies" : {}
+}
