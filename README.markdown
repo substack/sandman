@@ -10,12 +10,13 @@ Not yet ready for general consumption.
 
 Inspirations
 ============
-    * [module](http://modules.sourceforge.net/)
-    * nix
-    * [npm](http://npmjs.org)
-    * apt
-    * cabal
-    * cpan
+
+* [module](http://modules.sourceforge.net/)
+* nix
+* [npm](http://npmjs.org)
+* apt
+* cabal
+* cpan
 
 hypothetical use cases
 ======================
